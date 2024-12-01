@@ -1,2 +1,2 @@
 # FlockingSimulation
-Boids Flocking Simulation in C++
+Boids Flocking Simulation in C++ Raylib+OpenGL
